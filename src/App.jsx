@@ -116,7 +116,7 @@ class App extends React.Component {
               className="btn btn-primary"
               onClick={() => this.handleButtonClicked("grades")}
             >
-              Grades
+              red
             </button>
           </div>
         </nav>
